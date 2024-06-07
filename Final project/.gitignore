@@ -1,0 +1,29 @@
+# Ignore log files
+logs
+*.log
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore package lock files
+package-lock.json
+package-json.lock
+
+# Ignore node_modules
+node_modules/
+
+# Ignore npm cache
+.npm/_cacache/
+
+# Ignore temp files
+*.tmp
+tmp/
+temp/
+
+# Ignore config files
+*.config
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
